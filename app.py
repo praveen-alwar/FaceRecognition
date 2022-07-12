@@ -84,3 +84,5 @@ while True:
     if cv2.getWindowProperty("Webcam", cv2.WND_PROP_VISIBLE) < 1:
         break
     # checking
+
+    # checking if it is commit
