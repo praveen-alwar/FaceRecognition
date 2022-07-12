@@ -1,0 +1,6 @@
+opencv-python~=4.6.0.66
+cmake~=3.22.5
+dlib~=19.24.0
+face-recognition~=1.2.3
+numpy~=1.23.0
+mysql-connector-python~=8.0.29
