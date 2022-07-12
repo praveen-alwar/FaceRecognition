@@ -83,3 +83,4 @@ while True:
     keycode = cv2.waitKey(1)
     if cv2.getWindowProperty("Webcam", cv2.WND_PROP_VISIBLE) < 1:
         break
+    # checking
